@@ -3,7 +3,7 @@
     "logo": "./1.jpg",
     "sites": [
         {
-            "key": "酷狗",
+            "key": "酷狗（精武门)",
             "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
