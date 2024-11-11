@@ -3,6 +3,35 @@
     "logo": "./1.jpg",
     "sites": [
         {
+            "key": "酷狗",
+            "name": "酷狗",
+            "type": 3,
+            "api": "csp_Kugou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "music",
+            "name": "💤酷狗·音乐💤",
+            "type": 3,
+            "api": "csp_Music",
+            "jar": "./spider酷狗.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "酷我",
+            "name": "酷我js",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/酷我.js"
+        },
+        {
             "key": "AList",
             "name": "网盘|Alist[jar]",
             "type": 3,
